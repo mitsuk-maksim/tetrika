@@ -13,3 +13,6 @@ def get_zeros(n):
 print(get_zeros(5))
 
 print(get_zeros(12))
+
+
+# Сложность алгоритма O(logn)
